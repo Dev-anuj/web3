@@ -1,0 +1,40 @@
+#anuj{
+	color: white;
+
+}
+#alka{
+	font-size: 34px;
+}
+#chicken-tile {
+	background-color: #4d4d4d;
+	height: 700px;
+	margin-top: 20px;
+	color: white;
+}
+#beef-tile{
+	background-color: #4d4d4d;
+	height: 700px;
+	margin-top: 20px;
+	color: white;
+}
+#sushi-tile{
+	background-color: #4d4d4d;
+	height: 700px;
+	margin-top: 20px;
+	color: white;
+}
+#annu p{
+	font-size: 17px;
+	
+}
+#auj{
+
+  border-radius: 0;
+  border: 0;
+}
+
+#nav-list a:hover {
+  color: black;
+  background-color: white;
+}
+
